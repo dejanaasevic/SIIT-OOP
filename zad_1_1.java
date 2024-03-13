@@ -1,6 +1,6 @@
 package vezbe_01;
 
-public class zad1_1 {
+public class zad_1_1 {
 
 	public static void main(String[] args) {
 		System.out.println("A");
