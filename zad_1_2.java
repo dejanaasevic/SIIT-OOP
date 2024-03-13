@@ -1,6 +1,6 @@
 package vezbe_01;
 
-public class zad1_2 {
+public class zad_1_2 {
 
 	public static void main(String[] args) {
 		double povrsina_Kvadrata = 16;
