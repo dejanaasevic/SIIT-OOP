@@ -31,11 +31,6 @@ public class zad_2_14 {
 		ispis(y);
 		
 		System.out.printf("d_min = %.2f    A(%d , %d)  B(%d , %d)", d_min, x[prva_tacka], y[prva_tacka], x[druga_tacka], y[druga_tacka]);
-
-		
-		
-		
-
 	}
 	
 	public static void ispis(int [] a) {
