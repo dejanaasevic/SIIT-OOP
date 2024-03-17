@@ -5,8 +5,9 @@ import java.util.Scanner;
 public class PripremaKT1 {
 	static Scanner sc = new Scanner(System.in); 
 	static boolean exit;
-	static String [][] artikli = new String [50][2];
-	static int [][] kolicina = new int [50][3];
+	static int n = 50;
+	static String [][] artikli = new String [n][2];
+	static int [][] kolicina = new int [n][3];
 	static int brojArtikla = 0;
 	
 	public static void main(String[] args) {
